@@ -118,7 +118,7 @@ sales-data-cleaning-pipeline/
 ├── .gitignore
 ├── main.py
 ├── requirements.txt
-├──LICENSE
+├── LICENSE
 └── README.md
 ```
 
